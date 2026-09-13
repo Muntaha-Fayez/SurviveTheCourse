@@ -6,6 +6,7 @@ A gamified academic collaboration platform designed for HITSZ students to study 
 
 <p align="center">
   <img src="interface.jpeg" alt="Survive the Course dashboard" width="100%">
+  <img src="interface2.jpeg" alt="Survive the Course debug corner" width="100%">
 </p>
 ---
 
