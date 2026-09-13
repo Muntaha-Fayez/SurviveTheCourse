@@ -1,33 +1,72 @@
-# SurviveTheCourse
+# Survive the Course
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+### Survive the course. Together.
 
-## Built with v0
+A gamified academic collaboration platform designed for HITSZ students to study together, find study buddies, share resources, solve difficult problems, and make academic progress feel more structured and motivating.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+---
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_05BVLCAsb0v6k0VQzN4c7uN9qVCN)
+## 🎯 The Problem
 
-## Getting Started
+University students often know **what** they need to study, but struggle with:
 
-First, run the development server:
+- Finding the right person to study with
+- Staying consistent with their study goals
+- Knowing what to work on next
+- Getting help when they are stuck
+- Finding useful course resources in one place
+- Learning from mistakes instead of repeating them
+- Staying motivated throughout a difficult semester
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Existing academic platforms often focus on either **content** or **communication**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+We wanted to explore a different approach:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+> What if studying a course felt like progressing through a survival campaign—with teammates, missions, progress, and meaningful rewards?
 
-## Learn More
+---
 
-To learn more, take a look at the following resources:
+# 💡 Our Solution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+**Survive the Course** turns academic progress into a collaborative survival journey.
+
+Instead of treating a course as a collection of lectures and assignments, the platform represents it as a **campaign**.
+
+Students can:
+
+- Track their progress through a course
+- Complete study missions
+- Earn XP for meaningful academic actions
+- Find compatible study buddies
+- Join focused study sessions
+- Share and discover useful resources
+- Post mistakes and get help debugging them
+- Complete weekly survival challenges
+- Unlock useful academic rewards
+
+The goal is not to make studying into a game for the sake of gaming.
+
+The goal is to use **gamification as a motivation and collaboration layer around real academic work**.
+
+---
+
+# 🔄 Core Loop
+
+```text
+Study
+  ↓
+Solve
+  ↓
+Make mistakes
+  ↓
+Debug / Learn
+  ↓
+Help others
+  ↓
+Earn XP
+  ↓
+Unlock useful resources
+  ↓
+Progress through the course
+  ↓
+Survive the course
