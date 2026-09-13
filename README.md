@@ -4,6 +4,9 @@
 
 A gamified academic collaboration platform designed for HITSZ students to study together, find study buddies, share resources, solve difficult problems, and make academic progress feel more structured and motivating.
 
+<p align="center">
+  <img src="interface.jpeg" alt="Survive the Course dashboard" width="100%">
+</p>
 ---
 
 ## 🎯 The Problem
